@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\_Sites Hospedados\ListaTarefa\API</_PublishTargetUrl>
+    <History>True|2021-03-01T00:28:52.1687063Z;True|2021-02-28T20:17:23.7889577-04:00;True|2021-02-28T20:00:23.8684468-04:00;True|2021-02-28T19:56:26.8264510-04:00;True|2021-02-28T19:42:42.5564674-04:00;True|2021-02-28T18:48:33.5130844-04:00;True|2021-02-28T18:43:11.7373416-04:00;True|2021-02-28T18:42:06.6486447-04:00;True|2021-02-28T18:41:27.6551215-04:00;True|2021-02-28T18:39:45.7048955-04:00;True|2021-02-28T18:38:41.9191983-04:00;True|2021-02-28T17:18:27.7109204-04:00;True|2021-02-28T15:34:39.5650672-04:00;True|2021-02-28T15:19:47.4552995-04:00;</History>
+  </PropertyGroup>
+</Project>

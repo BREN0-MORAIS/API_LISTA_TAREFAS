@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30914.41
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIListaTarefa", "APIListaTarefa\APIListaTarefa.csproj", "{00D1BE5A-9F78-4241-AFC3-3C073EEFD379}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAcess", "DataAcess\DataAcess.csproj", "{5DC799FC-4987-4EEE-B7D3-3A92FC7586F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{21054F21-F001-4F1B-82C5-AF3F799A68C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00D1BE5A-9F78-4241-AFC3-3C073EEFD379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D1BE5A-9F78-4241-AFC3-3C073EEFD379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D1BE5A-9F78-4241-AFC3-3C073EEFD379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D1BE5A-9F78-4241-AFC3-3C073EEFD379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC799FC-4987-4EEE-B7D3-3A92FC7586F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC799FC-4987-4EEE-B7D3-3A92FC7586F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC799FC-4987-4EEE-B7D3-3A92FC7586F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC799FC-4987-4EEE-B7D3-3A92FC7586F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21054F21-F001-4F1B-82C5-AF3F799A68C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21054F21-F001-4F1B-82C5-AF3F799A68C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21054F21-F001-4F1B-82C5-AF3F799A68C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21054F21-F001-4F1B-82C5-AF3F799A68C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CBD9967-5EB6-4C48-BEBE-A00EB888C982}
+	EndGlobalSection
+EndGlobal
