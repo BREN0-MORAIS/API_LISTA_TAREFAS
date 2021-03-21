@@ -34,3 +34,27 @@ D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\DataAcess\obj\Release\net5.0\Da
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\DataAcess\obj\Release\net5.0\ref\DataAcess.dll
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\DataAcess\obj\Release\net5.0\DataAcess.pdb
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\DataAcess\obj\Release\net5.0\DataAcess.genruntimeconfig.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\bin\Release\net5.0\DataAcess.deps.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\bin\Release\net5.0\DataAcess.runtimeconfig.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\bin\Release\net5.0\DataAcess.runtimeconfig.dev.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\bin\Release\net5.0\DataAcess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\bin\Release\net5.0\ref\DataAcess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\bin\Release\net5.0\DataAcess.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\bin\Release\net5.0\Models.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\bin\Release\net5.0\Models.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\obj\Release\net5.0\DataAcess.csprojAssemblyReference.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\obj\Release\net5.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\obj\Release\net5.0\DataAcess.AssemblyInfoInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\obj\Release\net5.0\DataAcess.AssemblyInfo.cs
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\obj\Release\net5.0\DataAcess.csproj.CoreCompileInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\obj\Release\net5.0\DataAcess.csproj.CopyComplete
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\obj\Release\net5.0\DataAcess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\obj\Release\net5.0\ref\DataAcess.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\obj\Release\net5.0\DataAcess.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\DataAcess\obj\Release\net5.0\DataAcess.genruntimeconfig.cache
+D:\app\build\DataAcess.deps.json
+D:\app\build\DataAcess.runtimeconfig.json
+D:\app\build\DataAcess.runtimeconfig.dev.json
+D:\app\build\DataAcess.dll
+D:\app\build\ref\DataAcess.dll
+D:\app\build\DataAcess.pdb

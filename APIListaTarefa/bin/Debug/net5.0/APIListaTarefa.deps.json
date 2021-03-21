@@ -38,6 +38,7 @@
           "Microsoft.AspNetCore.Authentication.OpenIdConnect": "5.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer.Design": "1.1.6",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.10.12",
           "Models": "1.0.0",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -687,6 +688,7 @@
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
         }
       },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.10.12": {},
       "Microsoft.Win32.Primitives/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
@@ -3598,6 +3600,13 @@
       "sha512": "sha512-Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
       "path": "microsoft.openapi/1.2.3",
       "hashPath": "microsoft.openapi.1.2.3.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.10.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z9vzly6aCag+XIqHePpjlzCwHCeOIWIne1UomDrfB5Y9dCMpU2vNJnjxllZZR35Qeaotd83by8BikApk9Aa6ag==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.10.12",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.10.12.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",

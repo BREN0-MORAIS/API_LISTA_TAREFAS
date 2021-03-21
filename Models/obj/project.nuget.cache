@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mmJ0wOte0gf6XiShhLeP/qCcCpJyx2dCPbGNWZ6yNhHYMtvECsh9qoz+eayJDEq6fPuVnpsOD/6OTVhHYq4pig==",
+  "dgSpecHash": "//1lvo7ZkN9eCi5VY/bbuBS/vbj5Mt2Z3qzESgd7kZ0/FrcnwVZJnnD2XOWemeFmoeNp7R0qbpNaSKun2pUKOQ==",
   "success": true,
-  "projectFilePath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\Models\\Models.csproj",
+  "projectFilePath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\API_LISTA_TAREFAS\\Models\\Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

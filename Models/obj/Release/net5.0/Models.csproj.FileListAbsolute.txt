@@ -22,3 +22,19 @@ D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\Models\obj\Release\net5.0\Model
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\Models\obj\Release\net5.0\Models.dll
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\Models\obj\Release\net5.0\ref\Models.dll
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\Models\obj\Release\net5.0\Models.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\Models\bin\Release\net5.0\Models.deps.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\Models\bin\Release\net5.0\Models.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\Models\bin\Release\net5.0\ref\Models.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\Models\bin\Release\net5.0\Models.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\Models\obj\Release\net5.0\Models.csprojAssemblyReference.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\Models\obj\Release\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\Models\obj\Release\net5.0\Models.AssemblyInfoInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\Models\obj\Release\net5.0\Models.AssemblyInfo.cs
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\Models\obj\Release\net5.0\Models.csproj.CoreCompileInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\Models\obj\Release\net5.0\Models.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\Models\obj\Release\net5.0\ref\Models.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\Models\obj\Release\net5.0\Models.pdb
+D:\app\build\Models.deps.json
+D:\app\build\Models.dll
+D:\app\build\ref\Models.dll
+D:\app\build\Models.pdb

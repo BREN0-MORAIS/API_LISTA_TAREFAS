@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4JJfRU7BkR+6Sno4zhDnYqzZtlm1/vHGz6CN/KSUAfPQo8lPZ2oO2cT6rrNA2GnJ2uxZG1JZs1ckGlbOGcLVMQ==",
+  "dgSpecHash": "nktXcNvfQLNskfXrRIz107JVFkK6G0Kws7K92X5sH5EFfGeXIGPrho/VGQCzJOblcCqhGrxBytA6r0GZN+Zv7Q==",
   "success": true,
-  "projectFilePath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\DataAcess\\DataAcess.csproj",
+  "projectFilePath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\API_LISTA_TAREFAS\\DataAcess\\DataAcess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

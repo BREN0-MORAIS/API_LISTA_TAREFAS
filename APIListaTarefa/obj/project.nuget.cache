@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LfxFj8jBCNMdi7y/LMdPIYp0WJzk36keu1sUnGrwqGCdEm2uwZEMJ92t1w1wy7Qvu7ZbIP2hCWvHBlZfjIv8Eg==",
+  "dgSpecHash": "qTnvQjmZwQesD9PlCxHXqOyttA/Fc6IvWXizbjzu8gCxr9cOpLTfSaffuvM8Y/zNckG7J+y0Hihd5SG9RHGkGA==",
   "success": true,
-  "projectFilePath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\APIListaTarefa\\APIListaTarefa.csproj",
+  "projectFilePath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\API_LISTA_TAREFAS\\APIListaTarefa\\APIListaTarefa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",
@@ -35,6 +35,7 @@
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.12\\microsoft.visualstudio.azure.containers.tools.targets.1.10.12.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

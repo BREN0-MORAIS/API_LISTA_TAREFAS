@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\DataAcess\\DataAcess.csproj": {}
+    "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\API_LISTA_TAREFAS\\DataAcess\\DataAcess.csproj": {}
   },
   "projects": {
-    "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\DataAcess\\DataAcess.csproj": {
+    "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\API_LISTA_TAREFAS\\DataAcess\\DataAcess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\DataAcess\\DataAcess.csproj",
+        "projectUniqueName": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\API_LISTA_TAREFAS\\DataAcess\\DataAcess.csproj",
         "projectName": "DataAcess",
-        "projectPath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\DataAcess\\DataAcess.csproj",
+        "projectPath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\API_LISTA_TAREFAS\\DataAcess\\DataAcess.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\DataAcess\\obj\\",
+        "outputPath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\API_LISTA_TAREFAS\\DataAcess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\Models\\Models.csproj": {
-                "projectPath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\Models\\Models.csproj"
+              "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\API_LISTA_TAREFAS\\Models\\Models.csproj": {
+                "projectPath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\API_LISTA_TAREFAS\\Models\\Models.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\Models\\Models.csproj": {
+    "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\API_LISTA_TAREFAS\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\Models\\Models.csproj",
+        "projectUniqueName": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\API_LISTA_TAREFAS\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\Models\\Models.csproj",
+        "projectPath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\API_LISTA_TAREFAS\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\Models\\obj\\",
+        "outputPath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_APIListaTarefa\\API_LISTA_TAREFAS\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
