@@ -58,7 +58,7 @@ namespace APIListaTarefa.Controllers
            
         }
 
-        [HttpPut]
+        [HttpPatch]
 
         public IActionResult Put( Tarefa tarefa)
         {

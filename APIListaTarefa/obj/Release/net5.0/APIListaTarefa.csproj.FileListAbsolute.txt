@@ -205,3 +205,27 @@ D:\app\build\APIListaTarefa.runtimeconfig.dev.json
 D:\app\build\APIListaTarefa.dll
 D:\app\build\ref\APIListaTarefa.dll
 D:\app\build\APIListaTarefa.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\Humanizer.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\Microsoft.Data.Sqlite.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\SQLitePCLRaw.core.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_APIListaTarefa\API_LISTA_TAREFAS\APIListaTarefa\bin\Release\net5.0\runtimes\win-x86\native\e_sqlite3.dll

@@ -33,7 +33,7 @@ namespace APIListaTarefa
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "APIListaTarefa", Version = "v1" });
             });
-            services.AddDbContext<AppDataContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Default")));
+            services.AddDbContext<AppDataContext>(options => options.UseSqlite(Configuration.GetConnectionString("Default")));
             services.AddScoped<ITarefaRepository, TarefaRepository>();
         }
 
